@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Watchify - Your Ultimate Watch Shopping Destination
 
 Watchify is your one-stop destination for all your watch shopping needs. With an extensive collection of watches for men, women, and children, we offer a seamless shopping experience powered by ReactJS, NodeJS, ExpressJS, MongoDB, Bootstrap, and Braintree payment gateway.
@@ -28,3 +29,6 @@ To get started with Watchify, follow these simple steps:
 
 ```bash
 git clone https://github.com/Prabal2001/watchify.git
+=======
+# Watchify--Mern
+>>>>>>> 273cbe1bacc70e3f6c49d39fda243730337cc1db
